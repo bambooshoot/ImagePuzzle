@@ -1,0 +1,10 @@
+安装Python27
+双击安装包一路下一步即可
+
+安装PySide
+下载PySide 1.2.4 wheel文件
+pip在python\scripts目录
+pip install wheel文件
+
+安装PIL
+双击PIL安装包下一步即可
